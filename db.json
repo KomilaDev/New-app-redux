@@ -1,0 +1,50 @@
+{
+  "news": [
+    {
+      "id": "c080a0b5-daa3-4016-ac2f-3e1d48d834ea",
+      "title": "IELTS",
+      "description": "Bandscore 9.0",
+      "category": "weather"
+    },
+    {
+      "id": "202d2ad7-f4a4-4f47-b757-1a399625cb3f",
+      "title": "Senior",
+      "description": "Programmer",
+      "category": "world"
+    },
+    {
+      "id": "24d70725-17e0-4ad8-852d-e73d63fde871",
+      "title": "Komila",
+      "description": "Hamdullayeva",
+      "category": "sport"
+    },
+    {
+      "id": "9da471e3-1cae-48d8-8e53-07a782021ec5",
+      "title": "d",
+      "description": "s",
+      "category": "Sport"
+    }
+  ],
+  "filters": [
+    {
+      "name": "sport",
+      "className": "blue",
+      "label": "SPORT NEWS"
+    },
+    {
+      "name": "all",
+      "className": "red",
+      "label": "ALL"
+    },
+    {
+      "name": "weather",
+      "className": "gold",
+      "label": "WEATHER NEWS"
+    },
+    {
+      "name": "world",
+      "className": "green",
+      "label": "WORLD NEWS"
+    }
+  ]
+}
