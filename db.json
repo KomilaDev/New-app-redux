@@ -23,6 +23,12 @@
       "title": "d",
       "description": "s",
       "category": "Sport"
+    },
+    {
+      "id": "a57c5ce3-d33d-4611-a24c-3ec56aaecd92",
+      "title": "Freelancer",
+      "description": "Front-End",
+      "category": "weather"
     }
   ],
   "filters": [
